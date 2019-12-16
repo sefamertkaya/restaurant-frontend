@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="475cb852-9966-4c84-9280-ad0ed54e2854" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/node_modules/" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>value</find>
+      <find>İNFO</find>
+      <find>ınfo</find>
+      <find>is not prese</find>
+      <find>selectedtable</find>
+      <find>sel</find>
+      <find>pri</find>
+      <find>kaydet</find>
+      <find>meteor</find>
+      <find>saveFoodBill</find>
+      <find>savefood</find>
+      <find>header</find>
+      <find>open</find>
+      <find>message</find>
+      <find>hesabı öde</find>
+      <find>back</find>
+      <find>anası</find>
+      <find>selectedt</find>
+      <find>table</find>
+      <find>köfte</find>
+      <find>getfood</find>
+      <find>aaa</find>
+      <find>fatura</find>
+      <find>textalign</find>
+      <find>Header</find>
+      <find>Lahmacun</find>
+      <find>keb</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/api/ArticulusCalls/getAllServe.js" />
+        <option value="$PROJECT_DIR$/imports/ui/App.jsx" />
+        <option value="$PROJECT_DIR$/client/main.jsx" />
+        <option value="$PROJECT_DIR$/imports/ui/Info.jsx" />
+        <option value="$PROJECT_DIR$/imports/ui/Invoice.jsx" />
+        <option value="$PROJECT_DIR$/api/ArticulusCalls/openServe.js" />
+        <option value="$PROJECT_DIR$/imports/ui/Home.jsx" />
+        <option value="$PROJECT_DIR$/client/main.html" />
+        <option value="$PROJECT_DIR$/api/ArticulusCalls/payment.js" />
+        <option value="$PROJECT_DIR$/api/ArticulusCalls/save-food.js" />
+        <option value="$PROJECT_DIR$/api/ArticulusCalls/saveFood.js" />
+        <option value="$PROJECT_DIR$/server/main.js" />
+        <option value="$PROJECT_DIR$/api/ArticulusCalls/getFoods.js" />
+        <option value="$PROJECT_DIR$/imports/ui/Tables.jsx" />
+        <option value="$PROJECT_DIR$/imports/ui/Bill.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="articulus_frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="articulus_frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="enabled" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.meteor.library.cached" value="$PROJECT_DIR$/.meteor" />
+    <property name="js.meteor.library.was.enabled" value="true" />
+    <property name="js.meteor.project" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="meteor" type="meteor-app-runner" factoryName="Meteor">
+      <option name="exePath" value="/usr/local/bin/meteor" />
+      <option name="startBrowserSettings">
+        <browser url="http://localhost:3000" />
+      </option>
+      <meteor-runner-state>
+        <startBrowserSettings>
+          <browser url="http://localhost:3000" />
+        </startBrowserSettings>
+      </meteor-runner-state>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="475cb852-9966-4c84-9280-ad0ed54e2854" name="Default Changelist" comment="" />
+      <created>1576110372197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576110372197</updated>
+      <workItem from="1576110373687" duration="1174000" />
+      <workItem from="1576186405418" duration="315000" />
+      <workItem from="1576282374438" duration="9000" />
+      <workItem from="1576282389901" duration="1095000" />
+      <workItem from="1576346830186" duration="15125000" />
+      <workItem from="1576408159351" duration="172000" />
+      <workItem from="1576447834164" duration="4731000" />
+      <workItem from="1576528061631" duration="209000" />
+      <workItem from="1576528607108" duration="49000" />
+      <workItem from="1576528663298" duration="5000" />
+      <workItem from="1576528773408" duration="84000" />
+      <workItem from="1576529012096" duration="751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23719000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.036144577" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
+      <window_info anchor="bottom" id="Statistic" order="9" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.526506" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/@blueprintjs/core/lib/css/blueprint.css" />
+    <entry file="file://$PROJECT_DIR$/node_modules/semantic-ui-react/index.d.ts" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/yarn.lock" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/imports/api/links.js" />
+    <entry file="file://$PROJECT_DIR$/api/ArticulusCalls/getAllServe.js" />
+    <entry file="file://$PROJECT_DIR$/api/ArticulusCalls/openServe.js" />
+    <entry file="file://$PROJECT_DIR$/client/main.jsx" />
+    <entry file="file://$PROJECT_DIR$/client/main.html" />
+    <entry file="file://$PROJECT_DIR$/api/ArticulusCalls/saveFood.js" />
+    <entry file="file://$PROJECT_DIR$/server/main.js" />
+    <entry file="file://$PROJECT_DIR$/api/ArticulusCalls/payment.js" />
+    <entry file="file://$PROJECT_DIR$/api/ArticulusCalls/getFoods.js" />
+    <entry file="file://$PROJECT_DIR$/imports/ui/Tables.jsx" />
+    <entry file="uml://JavaScript-modules-diagram//Users/sefamertkaya/articulus_frontend/imports/ui">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/imports/ui</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/imports/ui/Bill.jsx#Button#48;/Users/sefamertkaya/articulus_frontend/imports/ui/Bill.jsx#Card#56;/Users/sefamertkaya/articulus_frontend/imports/ui/Bill.jsx#Component#15;/Users/sefamertkaya/articulus_frontend/imports/ui/Bill.jsx#Grid#62;/Users/sefamertkaya/articulus_frontend/imports/ui/Bill.jsx#Header#192;/Users/sefamertkaya/articulus_frontend/imports/ui/Bill.jsx#Icon#68;/Users/sefamertkaya/articulus_frontend/imports/ui/Bill.jsx#List#74;/Users/sefamertkaya/articulus_frontend/imports/ui/Bill.jsx#Message#262;/Users/sefamertkaya/articulus_frontend/imports/ui/Bill.jsx#Modal#80;/Users/sefamertkaya/articulus_frontend/imports/ui/Bill.jsx#React#7;/Users/sefamertkaya/articulus_frontend/imports/ui/Bill.jsx#Segment#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/semantic-ui-react/dist/commonjs/elements/Header/Header.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/imports/ui/Home.jsx#Bill#78;/Users/sefamertkaya/articulus_frontend/imports/ui/Home.jsx#Component#15;/Users/sefamertkaya/articulus_frontend/imports/ui/Home.jsx#React#7;/Users/sefamertkaya/articulus_frontend/imports/ui/Home.jsx#Tables#47;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/semantic-ui-react/dist/commonjs/collections/Message/Message.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/semantic-ui-react/dist/commonjs/elements/Segment/Segment.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/imports/ui/Tables.jsx#Button#67;/Users/sefamertkaya/articulus_frontend/imports/ui/Tables.jsx#Card#48;/Users/sefamertkaya/articulus_frontend/imports/ui/Tables.jsx#Component#15;/Users/sefamertkaya/articulus_frontend/imports/ui/Tables.jsx#Grid#54;/Users/sefamertkaya/articulus_frontend/imports/ui/Tables.jsx#Header#81;/Users/sefamertkaya/articulus_frontend/imports/ui/Tables.jsx#Icon#75;/Users/sefamertkaya/articulus_frontend/imports/ui/Tables.jsx#Modal#60;/Users/sefamertkaya/articulus_frontend/imports/ui/Tables.jsx#React#7;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/semantic-ui-react/index.d.ts#Button#5855;/Users/sefamertkaya/articulus_frontend/node_modules/semantic-ui-react/index.d.ts#Card#16487;/Users/sefamertkaya/articulus_frontend/node_modules/semantic-ui-react/index.d.ts#Grid#3412;/Users/sefamertkaya/articulus_frontend/node_modules/semantic-ui-react/index.d.ts#Header#6716;/Users/sefamertkaya/articulus_frontend/node_modules/semantic-ui-react/index.d.ts#Icon#7109;/Users/sefamertkaya/articulus_frontend/node_modules/semantic-ui-react/index.d.ts#List#8036;/Users/sefamertkaya/articulus_frontend/node_modules/semantic-ui-react/index.d.ts#Modal#13405;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react/index.js</node>
+            <node x="" y="">$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts</node>
+            <node x="" y="">Component;</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hıerarchıc Group" zoom="0.5502745498475694" x="291.0" y="299.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imports/ui/Home.jsx" />
+    <entry file="file://$PROJECT_DIR$/imports/ui/Bill.jsx" />
+  </component>
+</project>
